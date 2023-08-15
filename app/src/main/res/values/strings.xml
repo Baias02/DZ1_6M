@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DZ1_6M</string>
+    <string name="Text_Da">Yes</string>
+    <string name="Text_No">No</string>
+    <string name="Delete_Desc">Delete</string>
+    <string name="Delete">Delete</string>
+    <string name="text_update">Update</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
